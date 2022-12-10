@@ -1,7 +1,7 @@
 local module = {}
 
 -- alot of issues rn and maybe some bugs idk
--- going to sleep
+
 function module:nooui(nam, ver, totu, servlink)
 	local Ui = Instance.new("ScreenGui")
 	local Stuff = Instance.new("Frame")
