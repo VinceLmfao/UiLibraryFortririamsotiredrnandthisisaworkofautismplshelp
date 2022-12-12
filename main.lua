@@ -374,7 +374,7 @@ function module:nooui(nam, ver, totu, servlink)
 	TextLabel_3.Size = UDim2.new(1, -12, 0, 20)
 	TextLabel_3.ZIndex = 15
 	TextLabel_3.Font = Enum.Font.SourceSans
-	TextLabel_3.Text = "hi"
+	TextLabel_3.Text = "Join Our Discord".." "..servlink
 	TextLabel_3.TextColor3 = Color3.fromRGB(199, 199, 199)
 	TextLabel_3.TextSize = 14.000
 
